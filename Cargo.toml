@@ -1,9 +1,3 @@
-[package]
-name = "arakan"
-version = "0.1.0"
-authors = ["kkiyama117 <k.kiyama117@gmail.com>"]
-edition = "2018"
-
+[workspace]
+members = ["arakan-cli", "markdown-parser"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
